@@ -63,3 +63,10 @@ Python集成代码运行
 gradio运行llava
 
 ![1713358180918](image/HW5/1713358180918.png)
+
+
+#### 在openxlab上部署
+
+github创建项目，clone后编写app.py
+
+![1713372849799](image/HW5/1713372849799.png)
